@@ -3,7 +3,7 @@
 "interstitialid" : "ca-app-pub-3940256099942544/1033173712",
 "startappid" : "1234567",
 "enableads" : false,
-"enableddownload" : false,
+"enabledownload" : false,
 "showat" : 2
 
 }
