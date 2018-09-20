@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Subway Surfers",
+        "url": "com.kiloo.subwaysurf",
+        "image":"https://image.winudf.com/v2/image/Y29tLmtpbG9vLnN1YndheXN1cmZfaWNvbl8xNTM3NDMxMzkyXzAzOQ/icon.png?w=170&fakeurl=1&type=.png"
+    },
+    {
+        "name": "Facebook",
+        "url": "com.facebook.katana",
+        "image":"https://image.winudf.com/v2/image/Y29tLmZhY2Vib29rLmthdGFuYV9pY29uXzE1MzcyMTcyNDNfMDMx/icon.png?w=170&fakeurl=1&type=.png"
+    },
+    {
+        "name": "Tamago",
+        "url": "tv.tamago.tamago",
+        "image":"https://image.winudf.com/v2/image/dHYudGFtYWdvLnRhbWFnb19pY29uXzE1MzcxNzMwNjNfMDEx/icon.png?w=170&fakeurl=1&type=.png"
+    },
+    {
+        "name": "Clonapp Messenger",
+        "url": "com.karoon.clonapp",
+        "image":"https://image.winudf.com/v2/image/Y29tLmthcm9vbi5jbG9uYXBwX2ljb25fMTUzMTU1NTg2Ml8wNzU/icon.png?w=170&fakeurl=1&type=.png"
+    }
+    
+]
